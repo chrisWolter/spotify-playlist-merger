@@ -1,7 +1,7 @@
 <template>
-    <div class="header text-center">
-        <h1 class="headline">Spotify Playlist Merger</h1>
-    </div>
+  <div class="header text-center">
+    <h1 class="headline">Spotify Playlist Merger</h1>
+  </div>
 </template>
 
 <style lang="sass" scoped>
@@ -10,7 +10,7 @@
     line-height: 150px
     background-color: #1DB954
     color: white
-    
+
 .headline
     display: inline-block;
     vertical-align: middle;
@@ -22,5 +22,5 @@
         height: 75px
         line-height: 75px
     .headline
-        font-size: 24px    
+        font-size: 24px
 </style>
